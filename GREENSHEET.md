@@ -3,7 +3,7 @@
 Department of Art and Art History
 Art 195, Spring 2019
 
-![gif](http://i.imgur.com/zdzDxsA.gif)
+![gif](http://i.imgur.com/TuOehiT.gif)
 
 Instructor: Andrew Blanton
 Office: Art 311

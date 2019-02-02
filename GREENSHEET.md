@@ -1,7 +1,7 @@
-**SJSU ART 104 Spring 2019**
+**SJSU ART 195 Spring 2019**
 ======================
 Department of Art and Art History
-Art 104, Spring 2019
+Art 195, Spring 2019
 
 ![gif](http://i.imgur.com/zdzDxsA.gif)
 
@@ -9,63 +9,65 @@ Instructor: Andrew Blanton
 Office: Art 311
 Email: andrew.blanton@sjsu.edu
 Office Hours: T 4-6
-Class Day/Time: T 6:00-8:45
-Class Website: https://github.com/ablanton/SJSU_ART_104_S19
+Class Day/Time: W 3:00-5:50
+Class Website: https://github.com/ablanton/SJSU_ART_195_S19
 
-[GreenSheet](https://github.com/ablanton/SJSU_ART_104_S19/blob/master/GREENSHEET.md)
-| [Resources](https://github.com/ablanton/SJSU_ART_104_S19/blob/master/RESOURCES.md)
-| [Class Website](https://github.com/ablanton/SJSU_ART_104_S19)
+[GreenSheet](https://github.com/ablanton/SJSU_ART_195_S19/blob/master/GREENSHEET.md)
+| [Resources](https://github.com/ablanton/SJSU_ART_195_S19/blob/master/RESOURCES.md)
+| [Class Website](https://github.com/ablanton/SJSU_ART_195_S19)
 
 Course Description
 ------------------
-This semesters Interdisciplinary Seminar in Digital Media will work toward bringing SWITCH back online. Through a combination of lectures, presentations, and research, this class will explore old SWITCH articles and rebuild the web platform for a new distribution of SWITCH journal.  The core premise of the class will address individual and collaborative writing exercises, seeking to critically understand cultural normative assumptions about modernity and the use of technology while considering multiple alternatives to the current technological status quo. These assignments will build into the first issue of the re-launch of SWITCH.
+
+Art 195 is an in-depth study focusing on contemporary topics in art and related subject matter. This course is for the procurement of the undergraduate BFA in Art degree. Within this course, the student will develop individual approaches, methodologies, and practices in the creation of art. This course will culminate in a final group show demonstrating professional competence in the students’ area of concentration. Participation in the final exhibition with the approval of the student's advisory committee is required. Prerequisite: 30 units of upper division art, admission to the BFA program and ART 198, or ART 210 with advisor's approval.
+
+This course offers the opportunity for individual exploration in the student’s area of interest, including deep investigation of specific topics and processes in a single semester long project. The course will build into a final public group presentation of the work and is the final graduation requirement for the BFA Degree.
+
+The development of the final project and installation will be supplemented with readings, group discussions, one on one meetings with faculty and guest presentations. Students in this class are responsible for the planning, organization, and execution of the final exhibition. Open dialog, critique, and discussion are vital to the student’s success in this class. The final work can be executed in any medium, including print, video, animation, writing/publishing, web, or installation.
+
 
 Learning Outcomes
 -----------------
 
-###### LO1: understand the context of digital media art within contemporary art and society
-###### LO2: develop skills in creative research and problem-solving, brainstorming, and visual communication 
-###### LO3: deploy their skills for artistic achievement
-###### LO4: demonstrate familiarity with the language of visual critique
-###### LO5: expand their skills in writing to include analysis, and critical review
+###### LO1: Create professional level artwork that demonstrates conceptual depth and technical craftsmanship
+###### LO2: Successfully mount, install, and execute the final exhibition 
+###### LO3: Work with fellow students to plan, organize and promote the final exhibition
+###### LO4: Conceptualize the final exhibition through detailed organization, critique, and discussion
+###### LO5: Design the final exhibition considering audience, artwork, and venue
 
 Textbook
 --------
 
-Readings will be assigned throughout the class. No textbook is required for the class and all readings will be presented through the class git. 
-
-Suggested texts include: (optional)
-
-SWITCH internet archive
-Expanded Cinema - Gene Youngblood
-Sensorium, Embodied Experience, Technology, and Contemporary Art
-A History of the Senses - Robert Jutte
-Darwin’s Pharmacy - Richard M. Doyle
+All text and readings will be handed out in class.
 
 Classroom Protocol
 ==================
 
-Participation
--------------
+Course Requirements and Assignments
+-----------------------------------
 
-•	Participation in class discussions for readings, material that we watch in class, giving feedback to your peers on their work is mandatory. Remember that 20% of your grade is based on your participation in class + topic presentation and you are expected to actively participate in such discourses as they are some of the most important sections of our class.
-•	On Presentation days you must be able to explain and give a clear presentation of the topic, research, and concepts. If you have a hard time talking in front of a crowd or remembering your points, use a notebook, powerpoint, sketches or bullet points for your presentations. 
-•	For readings that I will be assigning in this course you are required to post your reading response (500 word two pages double spaced) response to our class blog. You are asked to think critically and post something that questions, criticizes, endorses, and/or adds to the reading. See the course outline chart for deadlines for these responses.
+This class will be run as a critique and studio. Students will be working in depth on their BFA projects for final presentation in the form of a group exhibition. We will be working for the semester to our final show. As a class you will be required to prepare your own work as well as organize and promote the final event. All corresponding press materials and final documentation will need to be divided up into small teams of students. The final installation should look professional and well polished. Students will also need to build and maintain a website for documentation of their final projects.
 
 Grading Policy
 --------------
 
-**Seminar Participation = 10% + 10%** 
+**Seminar Participation = 60%** 
 
-It is required that you attend and participate regularly in seminar discussion, this will account for 10% of your grade. The course includes engaged group dialogue and student-lead presentations of the assigned readings along with visual material. The student-lead presentations will be assigned at the beginning of the semester and your presentation and preparedness will account for an additional 10% of your grade. Students will be assessed based upon their individual level of engagement in seminar and the quality of student-lead presentations as defined in the grading policy/ rubric below. 
+It is required that you attend and participate regularly in seminar discussion, this will account for 60% of your grade. The course includes engaged group dialogue and student-lead organization of the final exhibition. The student-lead organization should be self assembling and should work in a team to divide tasks for the final installation. Students will be assessed based upon their individual level of engagement in seminar and the quality of student-lead presentations as defined in the grading policy/ rubric below.
 
-**Weekly Reading Responses = 60% (12 x 5% each response)** 
+**Final Exibition = 40%**
 
-Required weekly reading and writing assignments must be submitted on the day they are due. Students will submit a double-spaced typed written response per reading assignment (see course schedule for details). Reading responses will illustrate your brief summary of, along with your questions and challenges to, the text. Please use paragraph format, and spell-check - no bullet points. Reading responses will be assessed based upon quality and specificity of your response, as well as attention to key ideas from the assigned readings. 
+Grading Scale
+-------------
 
-**Final Paper and Research Presentation = 20%** 
+Your coursework will be assessed according to the following rubric,
+**A = 100 - 90%** ~ Exceptional. Student exhibits exemplary effort at comprehension and analysis of the required materials. All written and creative work is lucid and engaging.
+**B = 89 - 80%** ~ Strong. Student completes assignment, and demonstrates a grasp of the key themes of each topic, but not all. Detail, creativity and critical analysis are present.
+**C = 79 - 70%** ~ Average. Student completes the assignment but may lack enthusiasm or drive to push the work into a detailed creative or critical space. Student performs little or no creativity or analysis. Problems exist: the work is underdeveloped or incomplete.
+**D = 69 - 60%** ~ Poor. Student does not complete the work as assigned. Substantial problems exist in student's work.
+**F = < 60%** ~ Fail. Student does not submit work, or work is below unsatisfactory level.
 
-The class will conclude with a 7-page written paper. Final papers and research projects must demonstrate comprehension of, and engagement with, at least two of the primary seminar themes and topics. Research leading to the final presentation will begin in early November when the final project assignment is given.
+
 
 
 Schedule
@@ -73,25 +75,24 @@ Schedule
 
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Week 1* 01/29      | Course Introduction /Overview of Syllabus ** Introductions (Instructor-Students) Git Registration ** [http://switch.sjsu.edu/archive/archives/index.html](http://switch.sjsu.edu/archive/archives/index.html) Read one to three articles from the SWITCH Archives and post your response in the Reading One folder |
-| *Week 2* 02/05     | **Reading 1 Due** ** Presentation + Discussion ** **Reading 2: Assigned in Class** ** Introduction to HTML |
-| *Week 3* 02/12     | **Reading 2 Due** ** Presentation + Discussion ** **Reading 3: Assigned in Class** Website Setup and Git Pipeline |
-| *Week 4* 02/19      | **Reading 3 Due** ** Presentation + Discussion ** **Reading 4: Assigned in Class** ** HTML 2 |
-| *Week 5* 02/26      | **Reading 4 Due** ** Presentation + Discussion ** **Reading 5: Assigned in Class** ** Forming SWITCH Groups and Begin Working on site design|
-| *Week 6* 03/05      | **Reading 5 Due** ** Presentation + Discussion ** **Reading 6: Assigned in Class** ** Final Paper Requirements Posted to the Git. Students will present their ideas on 11/11 to the class. |
-| *Week 7* 03/12      | **Reading 6 Due** ** Presentation + Discussion ** **Reading 7: Assigned in Class** ** Group Work Beginning Research For Final |
-| *Week 8* 03/19      | **Reading 7 Due** ** Presentation + Discussion ** **Reading 8: assigned in class** ** Research and in class work on papers |
-| *Week 9* 03/26      | **Reading 8 Due** ** Presentation + Discussion ** **Reading 9: assigned in class** ** Research and in class work on papers |
-| *Week 10* 04/02     | **Spring Recess - No Class!** |
-| *Week 11* 04/09     | **Reading 9 Due** ** Presentation + Discussion ** **Reading 10: assigned in class** ** Research and in class work on papers |
-| *Week 12* 04/16     | **Reading 10 Due** ** Presentation + Discussion ** **Reading 11: assigned in class** ** Research and in class work on papers |
+| *Week 1* 01/30      | Initial Meeting, Planning and Coordination  |
+| *Week 2* 02/06      | Group meeting, Individual meetings proposal review |
+| *Week 3* 02/13      | Group meeting, Individual meetings proposal review |
+| *Week 4* 02/20      | Group meeting, Planning and Coordination - Reading 1 |
+| *Week 5* 02/27      | Student proposal Due |
+| *Week 6* 03/06      | Student proposal - Reading 2 |
+| *Week 7* 03/13      | Planning and Coordination Initial Site layout, Planning and Coordination |
+| *Week 8* 03/20      | First Prototypes Due – Initial Website and Documentation Due |
+| *Week 9* 03/27      | Individual meetings on presentation proposal review |
+| *Week 10* 04/03     | Spring Recess |
+| *Week 11* 04/10     | Workshop on Installing for digital - Reading 3 |
+| *Week 12* 04/17     | Workshop on Installing for digital |
 | *Week 13* 04/22     | ATC 9-12:30 MLK 225 |
 | *Week 13* 04/23     | ATC 9-12:30 MLK 225 |
-| *Week 14* 04/23     | **Reading 11 Due** ** Presentation + Discussion ** **Reading 12: assigned in class** ** Research and in class work on papers |
-| *Week 15* 04/30     | **Reading 12 Due** Research and in class work on papers |
-| Date TBA            | **Hammer Graduating Group Show** |
-| *Week 16* 05/07     | Final presentations ** Final 7-page paper due no later than Sunday, December 17th The final paper and project format will be assigned in class on Wednesday, November 4th and available online in PDF format |
-| *Final*  TBA      | Final Released |
+| *Week 14* 04/24     | Workshop on Installing for digital  |
+| *Week 15* 05/01     | Site layout, Planning and Coordination  |
+| *Week 16* 05/08     | Final Planning and Coordination |
+| *Final*  TBA        | **Hammer Graduating Group Show** |
 |                  |  |
 
 **University Policies**

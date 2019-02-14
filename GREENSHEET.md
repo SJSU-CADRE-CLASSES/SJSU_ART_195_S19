@@ -78,7 +78,7 @@ Schedule
 | *Week 1* 01/30      | Initial Meeting, Planning and Coordination  |
 | *Week 2* 02/06      | Group meeting, Individual meetings proposal review |
 | *Week 3* 02/13      | Group meeting, Individual meetings proposal review |
-| *Week 4* 02/20      | Group meeting, Planning and Coordination - Reading 1 |
+| *Week 4* 02/20      | Group meeting, Planning and Coordination - Milestone 1 - Working Title and Concept |
 | *Week 5* 02/27      | Student proposal Due |
 | *Week 6* 03/06      | Student proposal - Reading 2 |
 | *Week 7* 03/13      | Planning and Coordination Initial Site layout, Planning and Coordination |

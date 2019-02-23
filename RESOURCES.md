@@ -18,8 +18,7 @@ Class Website: https://github.com/ablanton/SJSU_ART_195_S19
 
 Resources
 ---------
-1/6
-
+2/6
 1. Green Heart of Holland http://theharrisonstudio.net/a-vision-for-the-green-heart-of-holland
 2. Arcosanti https://arcosanti.org/
 3. Elevenplay https://www.youtube.com/watch?v=mtXmhMAlG1g
@@ -30,3 +29,15 @@ Resources
 8. Pipilotti Rist https://pipilottirist.net/
 9. Anthony McCall http://www.anthonymccall.com/
 10. Volumetric Display https://lookingglassfactory.com/
+
+2/13
+1. Frog Design https://www.frogdesign.com/
+2. Material Speculation ISIS http://www.morehshin.com/material-speculation-isis/
+3. Claudia Hart Empire https://vimeo.com/27344739
+4. SWITCH Archives http://switch.sjsu.edu/archive/archives/index.html
+5. Kelly Morgan on WARP https://warp.net/videos/1077799-kelly-moran-halogen-live
+6. Crewmaster Cycle https://www.youtube.com/watch?v=2KfIQN1VVao
+7. Stelarc http://stelarc.org/?catID=20325
+8. Hito Steyerl Bubble Vision https://www.youtube.com/watch?v=T1Qhy0_PCjs
+9. Prepared Piano https://www.youtube.com/watch?v=kc3-C7Lnzh0
+10. Harry Partch https://archives.library.illinois.edu/archon/index.php?p=digitallibrary/digitalcontent&id=1100

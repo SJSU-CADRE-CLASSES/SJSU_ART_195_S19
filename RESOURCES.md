@@ -41,3 +41,23 @@ Resources
 8. Hito Steyerl Bubble Vision https://www.youtube.com/watch?v=T1Qhy0_PCjs
 9. Prepared Piano https://www.youtube.com/watch?v=kc3-C7Lnzh0
 10. Harry Partch https://archives.library.illinois.edu/archon/index.php?p=digitallibrary/digitalcontent&id=1100
+
+2/27
+1. Crazy Arby's Guy https://www.youtube.com/watch?v=s-mlPE8pxs4
+2. Dan Flavin http://ensembles.org/items/untitled-to-the-real-dan-hill-1b?locale=en
+3. The Yes Men https://www.youtube.com/watch?v=C3s_pJw7OAU
+4. Managerial Leisure Suit https://www.youtube.com/watch?v=Wj-gisszHM0
+4. Intersectionality http://geekfeminism.wikia.com/wiki/Intersectionality
+5. W3Fi https://vimeo.com/26663495
+6. Prometheus https://en.wikipedia.org/wiki/Prometheus
+7. Keijiro Takahashi https://twitter.com/_kzr
+8. Buckminster Fuller Montreal http://popturf.com/blog/the-geodesic-domes-of-buckminster-fuller/
+9. Recitation of A Soliloquy https://vimeo.com/40363738
+10. Ant Farm Inflatables https://colinmarshall.typepad.com/blog/film/page/7/ and http://www.antfarmthemovie.com/Welcome_to_Ant_Farm_the_Movie/Home.html
+11. Bruce Nauman Neon https://www.theartnewspaper.com/preview/bruce-nauman-keeps-his-edge-50-years-on
+12. Gabe Dunne Naag https://vimeo.com/142578819
+13. Raphael Lorenzo-Hammer https://en.wikipedia.org/wiki/Rafael_Lozano-Hemmer
+14. Cradle to Cradle https://www.c2ccertified.org/
+15. James Turrell https://www.artspace.com/magazine/art_101/on_trend/beacon-of-light-the-seven-best-james-turrell-works-youve-never-heard-of-55878
+16. Touch Designer https://www.derivative.ca/099/Downloads/
+17. Keijiro GitHub https://github.com/keijiro

@@ -76,7 +76,7 @@ Schedule
 | Class_Date          |                                                                                                                                                                        |
 | ------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Week 1* 01/30      | Initial Meeting, Planning and Coordination  |
-| *Week 2* 02/06      | Group meeting, Individual meetings proposal review |
+| *Week 2* 02/06      | Group meeting, Individual meetings proposal review **Meeting Lisa at the Hammer at 3:30 We will meet in the class first** |
 | *Week 3* 02/13      | Group meeting, Individual meetings proposal review |
 | *Week 4* 02/20      | Group meeting, Planning and Coordination - Milestone 1 - Working Title and Concept |
 | *Week 5* 02/27      | Student proposal Due |

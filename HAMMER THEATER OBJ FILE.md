@@ -12,3 +12,5 @@ there is a model of a man included and he is scaled to be a little over 6 feet t
 
 
 this seems to work fine for me downloading it and opening in the program I use. let me know if it doesn't work for you for any reason
+
+there is also the PDF of the floorplan from the theater included!

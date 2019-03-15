@@ -61,3 +61,23 @@ Resources
 15. James Turrell https://www.artspace.com/magazine/art_101/on_trend/beacon-of-light-the-seven-best-james-turrell-works-youve-never-heard-of-55878
 16. Touch Designer https://www.derivative.ca/099/Downloads/
 17. Keijiro GitHub https://github.com/keijiro
+
+3/12
+1. Micca Player http://www.miccastore.com/micca-speck-1080p-fullhd-ultra-portable-digital-media-player-for-usb-drives-and-sdsdhc-cards-p-99.html
+2. real fake http://www.real-fake.org/printedsculpture.html
+3. Sophie Khan https://www.sophiekahn.net/
+4. LaTurbo Avedon https://turboavedon.com/
+5. Turbo Squid https://www.turbosquid.com/3d-models/free-obj-mode-female-base-mesh/654424
+6. Eva Papamargariti http://evapapamargariti.tumblr.com/
+7. SoundDome http://www.sounddomes.com/
+8. resn.co.nz https://resn.co.nz
+9. last festival http://www.lastfestival.com/
+10. Petra Cortright https://www.petracortright.com/
+11. Jon Rafman http://jonrafman.com/
+12. Claudia Hart https://www.claudiahart.com/
+13. Andrew Benson https://pixlpa.com/
+14. Brad Troemel http://main.bradtroemel.com/
+15. Panther Modern http://panthermodern.org/
+16. ThreeJs https://threejs.org/
+17. 3D Mars https://www.nationalgeographic.com/science/2016/11/exploring-mars-map-panorama-pictures/
+18. NormanVR https://normanvr.com/

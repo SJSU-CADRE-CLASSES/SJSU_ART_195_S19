@@ -88,3 +88,9 @@ Resources
 3. softwar(e) http://softwar.online/
 4. obscura digital http://obscuradigital.com/work/racingextinction/
 5. Press Release example https://i.pinimg.com/originals/72/a6/4e/72a64e6be6bf0575d9c4a3967a424ba9.jpg
+6. 'text art' https://www.messletters.com/en/text-art/
+7. sledgehammer https://www.youtube.com/watch?v=OJWJE0x7T4Q
+8. instant art statement https://www.artybollocks.com/generator.html
+9. pygmalion's spectacles http://www.historyofinformation.com/detail.php?entryid=4543
+10. text flip http://www.upsidedowntext.com/
+11. Joanna Newsom https://www.youtube.com/watch?v=47yuiPK01kg

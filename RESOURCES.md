@@ -81,3 +81,10 @@ Resources
 16. ThreeJs https://threejs.org/
 17. 3D Mars https://www.nationalgeographic.com/science/2016/11/exploring-mars-map-panorama-pictures/
 18. NormanVR https://normanvr.com/
+
+3/27
+1. Touch Designer https://www.derivative.ca/
+2. Phenomenon logo https://www.laforet.ne.jp/museum_event/RGB/
+3. softwar(e) http://softwar.online/
+4. obscura digital http://obscuradigital.com/work/racingextinction/
+5. Press Release example https://i.pinimg.com/originals/72/a6/4e/72a64e6be6bf0575d9c4a3967a424ba9.jpg

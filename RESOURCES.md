@@ -94,3 +94,8 @@ Resources
 9. pygmalion's spectacles http://www.historyofinformation.com/detail.php?entryid=4543
 10. text flip http://www.upsidedowntext.com/
 11. Joanna Newsom https://www.youtube.com/watch?v=47yuiPK01kg
+
+4/10
+1. Memo Atkin https://vimeo.com/260612034
+2. Diamanda Galas https://www.youtube.com/watch?v=f0AIjnQ8t30
+3. Mercury News https://www.mercurynews.com/contact-us/

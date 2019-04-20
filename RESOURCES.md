@@ -99,3 +99,12 @@ Resources
 1. Memo Atkin https://vimeo.com/260612034
 2. Diamanda Galas https://www.youtube.com/watch?v=f0AIjnQ8t30
 3. Mercury News https://www.mercurynews.com/contact-us/
+
+4/17
+1. Memo Akten Learning to see https://vimeo.com/260612034
+2. Anti-Oedipus https://en.wikipedia.org/wiki/Anti-Oedipus
+3. Cyclonopedia https://www.amazon.co.uk/Cyclonopedia-Complicity-Materials-Reza-Negarestani/dp/0980544009
+4. Anechoic Chamber https://www.google.com/search?q=anechoic+chamber&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXw6fqrdjhAhUHhlQKHafuC3cQ_AUIDygC&biw=1538&bih=893&dpr=1.1#imgrc=gSCIlH9EogLV8M:
+5. The book of Shaders https://thebookofshaders.com/04/
+6. OpenFrameworks https://openframeworks.cc/
+7. Elevenplay https://www.youtube.com/watch?v=mtXmhMAlG1g

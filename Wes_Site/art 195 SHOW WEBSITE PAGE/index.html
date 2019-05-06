@@ -5,158 +5,258 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 		<style>
-			body {
-				padding:0;
-				margin:0;
-				font-weight: normal;
-				overflow:hidden;
+			html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0px;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+.topnav {
+  overflow: hidden;
+  background-color: black;
+  padding-top: 5%
+   padding-bottom: 5%
+
+}
+.topnav a {
+  float: left;
+  color:white;
+  text-align:left;
+  z-index: 2;
+  text-decoration: none;
+  font-family: arial;
+  font-size: 25px;
+padding-right:25px;
+padding-top: 2%
+margin-right:5%;
+margin-left: 25%
+}
+
+.topnav a:hover {
+ 
+  color: black;
+  background-color:white;
+}
+
+.topnav a.active {
+  
+  color: white;
+}
+
+h3{
+  font-weight: bold;
+}
+
+
+
+			.directory{
+				position:absolute;
+				z-index: 3;
+				padding-top: 5%;
+				padding-right:60%;
+				width: 100%;
+				height: :100%;
+				overflow: scroll;
+				text-align: right;
+
 			}
+
+			.space{
+
+				position: relative;
+				z-index: 1;
+				width:100%;
+				height: 100%;
+				
+			}
+
+			.thehead{
+				position: absolute;
+				padding-top: 15%;
+				padding-left:50%;
+				padding-right: 5%
+				padding-bottom: 15%;
+				z-index: 2;
+			}
+
+			.title{
+				position: absolute;
+				padding-top: 45%;
+				padding-left:50%;
+				padding-right: 5%
+				padding-bottom: 15%;
+				z-index: 2;
+			}
+
+
+
+			body {
+				width:100%;
+				height:100%;
+					 margin: 0px;
+					 background-color: black;
+		
+			}
+				
 		</style>
 		<link type="text/css" rel="stylesheet" href="css/main.css" />
+
 	</head>
 	<body>
+
+		<div class="topnav">
+  <a href="#home">Home</a>
+  <a href="#about">About</a>
+</div>
+
+
+		<!--the index-->
+		<div class = "directory">
+
+      <h1>ARTISTS PRESENTED</h1>
+      <br>
+      <br>
+	  <a href="#"><h3>Quixotic VR | Rajeev Bhayro</h3></a>
+	  <br>
+	  <br>
+      <a href="wesleybower.html"><h3>Wesley Bower</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>VIE | Jennifer Cacal</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>INEXORABLE | Stephanie Cacal</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>3rR0r | Emily Cheung and Nicole Yuen</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>Norka Espinal</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>Portra | Emily Fong</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>[IN/EX]ternal | Justin Kim</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>DEBRIS | Yi Liu</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>Kevin Nguyen</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>Ili-Exesa | Joshua Nolan</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>The Tax that Sins | Faustino Ortiz III</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>Exploits | Thanh Truong</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>Yulia Valiakhmetova</h3></a>
+      <br>
+      <br>
+      <a href="#"><h3>My Baby World VR | Don Vo</h3></a>
+	</div>
+<div class = "thehead">
+
+			<img src="home-assets/profile.png" style="width:50%">
+
+		</div>
+
+		<div class="title">
+			<img src="home-assets/title.png" style="width:50%">
+	</div>
+
+		<div class ="space">
 		<script src="three.js-master/build/three.js"></script>
+		<script src="js/WebGL.js"></script>
+		<script type="js/libs/stats.min.js"></script>
 
-		<script src="three.js-master/examples/js/libs/stats.min.js"></script>
-		<div class="example">
-		<div class="text">
-
-
-
-		this is some text
-		<br>
-		<br>
-		this is some more text
-		<br>
-		<br>
-		<br>
-		<br>
-		this is some more text
-		<br>
-		<br>
-		this is some more text
-		<br>
-		<br>
-		this is some more text
-		<br>
-		<br>
-		this is some more text
-		<br>
-		<br>
-		this is some more text
-		<br>
-		<br>
-		this is some more text
-		<br>
-		<br>
-		this is some more text
-		<br>
-		<br>
-		this is some more text
-		<br>
-		<br>
-		this is some more text
-		<br>
-		<br>
-		this is some more text
-		<br>
-		<br>
-		this is some more text
-				<br>
-		<br>
-		this is some more text
-				<br>
-		<br>
-		this is some more text
-				<br>
-		<br>
-		this is some more text
-				<br>
-		<br>
-		this is some more text
-				<br>
-		<br>
-		this is some more text
-
-
-
-		</div>
-		</div>
 		<script>
-			var container, stats;
-			var camera, scene, renderer;
-			var mouseX = 0, mouseY = 0;
-			var windowHalfX = window.innerWidth / 2;
-			var windowHalfY = window.innerHeight / 2;
-			var answ = true;
-			
+      var container, stats;
+      var camera, scene, renderer;
+      var mouseX = 0, mouseY = 0;
+      var windowHalfX = window.innerWidth / 2;
+      var windowHalfY = window.innerHeight / 2;
+      var answ = true;
+      
 
-			init();
-			animate();
-
-
-			function init() {
-				container = document.createElement( 'div' );
-				document.body.appendChild( container );
-				camera = new THREE.PerspectiveCamera( 60, window.innerWidth / window.innerHeight, 1, 10000 );
-				camera.position.set( 0, 0, 1000 );
-				scene = new THREE.Scene();
-				
-				scene.background = new THREE.Color( 0xFF0000 );
-				var colorArray = [ new THREE.Color( 0xF30021 ), new THREE.Color( 0x0008FF ), new THREE.Color( 0x00AEFF ), new THREE.Color( 0x7B004C ) ];
-				var positions = [];
-				var colors = [];
-				for ( var i = 0; i < 100000; i ++ ) {
-					positions.push( 20000 * ( Math.random() - 0.5 ), 20000 * ( Math.random() - 0.5 ), 20000 * ( Math.random() - 0.5 ) );
-					var clr = colorArray[ Math.floor( Math.random() * colorArray.length) ];
-					colors.push( clr.r, clr.g, clr.b );
-				}
-				var geometry = new THREE.BufferGeometry();
-				geometry.addAttribute( 'position', new THREE.Float32BufferAttribute( positions, 3 ) );
-				geometry.addAttribute( 'color', new THREE.Float32BufferAttribute( colors, 3 ) );
-				var material = new THREE.PointsMaterial( { size: 3, vertexColors: THREE.VertexColors, depthTest: false, sizeAttenuation: false } );
-				var mesh = new THREE.Points( geometry, material );
-				scene.add( mesh );
-				renderer = new THREE.WebGLRenderer( { preserveDrawingBuffer: true } );
-				renderer.setPixelRatio( window.devicePixelRatio );
-				renderer.setSize( window.innerWidth, window.innerHeight );
-				renderer.autoClearColor = true;
-				container.appendChild( renderer.domElement );
-				// stats = new Stats();
-				// container.appendChild( stats.dom );
-				//
-				document.addEventListener( 'mousemove', onDocumentMouseMove, false );
-				window.addEventListener( 'resize', onWindowResize, false );
+      init();
+      animate();
 
 
-			}
+      function init() {
+        container = document.createElement( 'div' );
+        document.body.appendChild( container );
+        camera = new THREE.PerspectiveCamera( 60, window.innerWidth / window.innerHeight, 1, 10000 );
+        camera.position.set( 0, 0, 1000 );
+        scene = new THREE.Scene();
+        
+        scene.background = new THREE.Color( 0x000049 );
+        var colorArray = [ new THREE.Color( 0xF30021 ), new THREE.Color( 0x0008FF ), new THREE.Color( 0x00AEFF ), new THREE.Color( 0x7B004C ) ];
+        var positions = [];
+        var colors = [];
+        for ( var i = 0; i < 100000; i ++ ) {
+          positions.push( 20000 * ( Math.random() - 0.5 ), 20000 * ( Math.random() - 0.5 ), 20000 * ( Math.random() - 0.5 ) );
+          var clr = colorArray[ Math.floor( Math.random() * colorArray.length) ];
+          colors.push( clr.r, clr.g, clr.b );
+        }
+        var geometry = new THREE.BufferGeometry();
+        geometry.addAttribute( 'position', new THREE.Float32BufferAttribute( positions, 3 ) );
+        geometry.addAttribute( 'color', new THREE.Float32BufferAttribute( colors, 3 ) );
+        var material = new THREE.PointsMaterial( { size: 3, vertexColors: THREE.VertexColors, depthTest: false, sizeAttenuation: false } );
+        var mesh = new THREE.Points( geometry, material );
+        scene.add( mesh );
+        renderer = new THREE.WebGLRenderer( { preserveDrawingBuffer: true } );
+        renderer.setPixelRatio( window.devicePixelRatio );
+        renderer.setSize( window.innerWidth, window.innerHeight*2);
+        renderer.autoClearColor = true;
+        container.appendChild( renderer.domElement );
+        // stats = new Stats();
+        // container.appendChild( stats.dom );
+        //
+        document.addEventListener( 'mousemove', onDocumentMouseMove, false );
+        window.addEventListener( 'resize', onWindowResize, false );
 
-			function onWindowResize() {
-				windowHalfX = window.innerWidth / 2;
-				windowHalfY = window.innerHeight / 2;
-				camera.aspect = window.innerWidth / window.innerHeight;
-				camera.updateProjectionMatrix();
-				renderer.setSize( window.innerWidth, window.innerHeight );
-			}
-			function onDocumentMouseMove( event ) {
-				mouseX = ( event.clientX - windowHalfX ) * 4;
-				mouseY = ( event.clientY - windowHalfY ) * 6;
-			}
-			//
-			function animate() {
-				requestAnimationFrame( animate );
-				render();
-				stats.update();
-			}
-			function render() {
-				camera.position.x -= ( mouseX + camera.position.x ) * .05;
-				camera.position.y -= (  mouseY + camera.position.y ) * .05;
-				camera.lookAt( scene.position );
-				renderer.render( scene, camera );
-			}
-			
-		</script>
 
+      }
+
+      function onWindowResize() {
+       
+        renderer.setSize( window.innerWidth, window.innerHeight);
+         camera.aspect = window.innerWidth / window.innerHeight;
+         camera.fov = Math.atan(window.innerHeight / 2 / camera.position.z) * 2 * THREE.Math.RAD2DEG;
+
+      }
+      function onDocumentMouseMove( event ) {
+        mouseX = ( event.clientX - windowHalfX ) * 4;
+        mouseY = ( event.clientY - windowHalfY ) * 6;
+      }
+      //
+      function animate() {
+        requestAnimationFrame( animate );
+        render();
+        stats.update();
+      }
+      function render() {
+        camera.position.x -= ( mouseX + camera.position.x ) * .05;
+        camera.position.y -= (  mouseY + camera.position.y ) * .05;
+        camera.lookAt( scene.position );
+        renderer.render( scene, camera );
+      }
+      
+    </script>
+</div>
 
 	</body>
 </html>
+

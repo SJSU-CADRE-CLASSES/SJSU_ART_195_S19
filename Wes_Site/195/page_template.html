@@ -1,0 +1,137 @@
+<html>
+<head>
+<title>Wesley Bower</title>
+<link rel="stylesheet" href="docstyle.css">
+
+<style>
+
+	html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0px;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+
+	</style>
+</head>
+
+<body>
+
+<div class="topnav">
+  <a href="#home">Home</a>
+  <a href="#about">About</a>
+</div>
+
+<!--Edit only in div id pstyle. paste inside the p tags.-->
+
+<div class="pstyle">
+  <h1>Title of your Art</h1>
+
+<img scr ="assets link"> <!--link to images in assets folder-->
+
+
+
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus. Massa sapien faucibus et molestie ac feugiat sed lectus. Elementum facilisis leo vel fringilla est ullamcorper eget nulla. Commodo sed egestas egestas fringilla phasellus. Sit amet mauris commodo quis imperdiet massa. Mauris augue neque gravida in fermentum. Aliquet porttitor lacus luctus accumsan tortor posuere ac. Tincidunt augue interdum velit euismod in pellentesque. Euismod lacinia at quis risus sed vulputate odio. Egestas pretium aenean pharetra magna. Malesuada pellentesque elit eget gravida cum sociis natoque penatibus et. Sollicitudin tempor id eu nisl. Sed augue lacus viverra vitae. Gravida in fermentum et sollicitudin.
+<br>
+<br>
+Mattis enim ut tellus elementum sagittis. Nibh cras pulvinar mattis nunc sed. Etiam sit amet nisl purus in mollis. Nam libero justo laoreet sit amet cursus sit amet dictum. Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Nam at lectus urna duis convallis convallis tellus. Justo eget magna fermentum iaculis eu non diam phasellus. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Ac placerat vestibulum lectus mauris ultrices eros in cursus. Porttitor lacus luctus accumsan tortor. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet.
+<br>
+<br>
+Libero id faucibus nisl tincidunt eget nullam non. Aliquam etiam erat velit scelerisque. Mattis molestie a iaculis at erat pellentesque adipiscing commodo elit. Sed sed risus pretium quam vulputate dignissim. Egestas pretium aenean pharetra magna ac placerat. Sodales neque sodales ut etiam. Nunc sed augue lacus viverra vitae. Odio facilisis mauris sit amet massa vitae tortor condimentum lacinia. Nullam eget felis eget nunc lobortis mattis. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus in. Orci a scelerisque purus semper eget duis at. Enim ut sem viverra aliquet eget sit amet tellus. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod.</p>
+
+
+  <br> <!--use this to have space between your paragraphs-->
+
+
+</div>
+
+<div class ="space">
+		<script src="three.js-master/build/three.js"></script>
+		<script src="js/WebGL.js"></script>
+		<script type="js/libs/stats.min.js"></script>
+
+		<script>
+      var container, stats;
+      var camera, scene, renderer;
+      var mouseX = 0, mouseY = 0;
+      var windowHalfX = window.innerWidth / 2;
+      var windowHalfY = window.innerHeight / 2;
+      var answ = true;
+      
+
+      init();
+      animate();
+
+
+      function init() {
+        container = document.createElement( 'div' );
+        document.body.appendChild( container );
+        camera = new THREE.PerspectiveCamera( 60, window.innerWidth / window.innerHeight, 1, 10000 );
+        camera.position.set( 0, 0, 1000 );
+        scene = new THREE.Scene();
+        
+        scene.background = new THREE.Color( 0x000049 );
+        var colorArray = [ new THREE.Color( 0xF30021 ), new THREE.Color( 0x0008FF ), new THREE.Color( 0x00AEFF ), new THREE.Color( 0x7B004C ) ];
+        var positions = [];
+        var colors = [];
+        for ( var i = 0; i < 100000; i ++ ) {
+          positions.push( 20000 * ( Math.random() - 0.5 ), 20000 * ( Math.random() - 0.5 ), 20000 * ( Math.random() - 0.5 ) );
+          var clr = colorArray[ Math.floor( Math.random() * colorArray.length) ];
+          colors.push( clr.r, clr.g, clr.b );
+        }
+        var geometry = new THREE.BufferGeometry();
+        geometry.addAttribute( 'position', new THREE.Float32BufferAttribute( positions, 3 ) );
+        geometry.addAttribute( 'color', new THREE.Float32BufferAttribute( colors, 3 ) );
+        var material = new THREE.PointsMaterial( { size: 3, vertexColors: THREE.VertexColors, depthTest: false, sizeAttenuation: false } );
+        var mesh = new THREE.Points( geometry, material );
+        scene.add( mesh );
+        renderer = new THREE.WebGLRenderer( { preserveDrawingBuffer: true } );
+        renderer.setPixelRatio( window.devicePixelRatio );
+        renderer.setSize( window.innerWidth, window.innerHeight*2);
+        renderer.autoClearColor = true;
+        container.appendChild( renderer.domElement );
+        // stats = new Stats();
+        // container.appendChild( stats.dom );
+        //
+        document.addEventListener( 'mousemove', onDocumentMouseMove, false );
+        window.addEventListener( 'resize', onWindowResize, false );
+
+
+      }
+
+      function onWindowResize() {
+       
+        renderer.setSize( window.innerWidth, window.innerHeight);
+         camera.aspect = window.innerWidth / window.innerHeight;
+         camera.fov = Math.atan(window.innerHeight / 2 / camera.position.z) * 2 * THREE.Math.RAD2DEG;
+
+      }
+      function onDocumentMouseMove( event ) {
+        mouseX = ( event.clientX - windowHalfX ) * 4;
+        mouseY = ( event.clientY - windowHalfY ) * 6;
+      }
+      //
+      function animate() {
+        requestAnimationFrame( animate );
+        render();
+        stats.update();
+      }
+      function render() {
+        camera.position.x -= ( mouseX + camera.position.x ) * .05;
+        camera.position.y -= (  mouseY + camera.position.y ) * .05;
+        camera.lookAt( scene.position );
+        renderer.render( scene, camera );
+      }
+      
+    </script>
+</div>
+</body>
+
+</html>

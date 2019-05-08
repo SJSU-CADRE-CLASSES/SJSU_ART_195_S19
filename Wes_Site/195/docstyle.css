@@ -1,0 +1,83 @@
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+  padding-top: 5%
+   padding-bottom: 5%
+   color: #FF7777
+
+}
+
+h1{
+  text-align: center;
+}
+
+body{
+  text-align:left;
+  color: white;
+font-family: arial;
+font-size:15px;
+overflow: hidden;
+
+}
+
+
+.topnav a {
+  float: left;
+  color:#FF7777;
+  text-align:left;
+  z-index: 3;
+  text-decoration: none;
+  font-family: arial;
+  font-size: 25px;
+padding-right:25px;
+padding-top: 2%
+margin-right:5%;
+margin-left: 25%
+}
+
+.topnav a:hover {
+ 
+  color: black;
+  background-color:white;
+}
+
+.topnav a.active {
+  
+  color: white;
+}
+
+p{
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.pstyle{
+  color: white;
+  position: absolute;
+  z-index: 2;
+  background-color:black;
+  height:100%;
+  opacity: 0.5;
+  
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -9999;
+}
+
+.space{
+
+  position: relative;
+  z-index: 1;
+  width:100%;
+  height: 100%;
+}

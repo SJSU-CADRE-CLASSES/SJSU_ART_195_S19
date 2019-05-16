@@ -92,7 +92,8 @@ Schedule
 | *Week 14* 04/24     | Workshop on Installing for digital  |
 | *Week 15* 05/01     | Site layout, Planning and Coordination  |
 | *Week 16* 05/08     | Final Planning and Coordination |
-| *Final*  TBA        | **Hammer Graduating Group Show** |
+| show       | **Hammer Graduating Group Show** |
+| Final 5/20 @ 12:15  | **Hammer Graduating Group Show** |
 |                  |  |
 
 **University Policies**

@@ -93,7 +93,7 @@ Schedule
 | *Week 15* 05/01     | Site layout, Planning and Coordination  |
 | *Week 16* 05/08     | Final Planning and Coordination |
 | show       | **Hammer Graduating Group Show** |
-| Final 5/20 @ 12:15  | **Hammer Graduating Group Show** |
+| Final 5/20 @ 12:15  | **Final Documantation Due** |
 |                  |  |
 
 **University Policies**

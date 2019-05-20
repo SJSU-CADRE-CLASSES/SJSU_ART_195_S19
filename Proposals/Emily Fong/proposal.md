@@ -1,5 +1,8 @@
 
 <h3>Proposal for project</h3>
+
+<img src="20160105194018-woman-eye-exam-girl-eyes.jpeg">
+<br>
 <p>For my proposal, I want to do a video piece about screens and how they changed over time. It went from black and white to color and that shift affected generations. There was a study conducted that people over the age of 55 were more likely to dream in monochrome because they grew up being exposed to black and white television. People who were younger than 55 were more likely to dream in color. I want to connect that idea together that screens are intertwined with us in a sense.
 </p>
 <br>

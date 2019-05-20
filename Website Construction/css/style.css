@@ -1,0 +1,115 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #0c2461;
+  text-decoration: none;
+  text-align: left;
+font-size: 25px;
+font-family: Arial;
+color:white;
+padding-left: 5%;
+}
+
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding-left:5%;
+  padding-right:5%;
+  padding-top: 1%;
+ 
+}
+
+.pics1{
+  padding-top: 10%;
+}
+.pics2{
+  padding: 5%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+h1{
+  color: white;
+  padding: 0px 10px;
+  font-family: arial;
+}
+
+
+a{
+  text-decoration: none;
+  color:white;
+}
+.column a:hover {
+ 
+  color: #FDA7DF;
+  background-color: #1289A7;
+  padding: 1%;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 5%;
+  overflow: hidden;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #1289A7;
+  color: #FDA7DF;
+}
+
+
+
+/* Style the active link (or home/logo) */
+.active {
+  background-color: #1289A7;
+
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
+
+
+
+/*MEDIA QUERY*/
+@media only screen and (max-width : 640px) {
+
+  header {
+
+    position: absolute;
+
+  }
+
+ 

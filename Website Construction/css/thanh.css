@@ -3,9 +3,9 @@ html, body {
     padding: 0;
     font-family: 'Jura', sans-serif;
   }
-  body{
-      overflow: hidden;
-  }
+body{
+    overflow: hidden;
+}
 .container{
     display: grid;
     grid-template-columns: 60% 40%;
@@ -19,6 +19,11 @@ html, body {
     padding-left: 25%;
     padding-bottom:35%;
     padding-top:10%;
+}
+.information{
+    overflow-y: auto;
+    height: 750px;
+    padding-bottom: 20%;
 }
 .headline{
     color: white;
@@ -85,8 +90,6 @@ html, body {
     grid-gap: 20px;
     grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
     grid-auto-rows: 200px;
-    overflow-y: auto;
-    height: 550px;
 
   }
   .card {
@@ -182,5 +185,9 @@ html, body {
     }
     .information{
         grid-area: options;
+        overflow:hidden;
+    }
+    .videos{
+        grid-template-rows: repeat(1,1fr);
     }
 }
